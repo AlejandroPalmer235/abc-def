@@ -1,6 +1,6 @@
 {
   "name": "abc-def",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "ABC Def is an efficient design system using a three-tier token structure and Headless UI to create web components with consistent design and flexible customization.",
   "main": "src/index.ts",
   "scripts": {
